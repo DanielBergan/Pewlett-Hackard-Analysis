@@ -9,10 +9,10 @@ program to fill said vacant roles.
 
 ## Analysis Results
 
--There is a sizable amount of employees set to retire.
--Many of the vacancies will be senior level positons.
--There isn't nearly enough employees eligible for a mentorship program.
--The scope of employees included in the mentorship program will need to be expanded.
+- There is a sizable amount of employees set to retire.
+- Many of the vacancies will be senior level positons.
+- There isn't nearly enough employees eligible for a mentorship program.
+- The scope of employees included in the mentorship program will need to be expanded.
 
 ## Summary
 
