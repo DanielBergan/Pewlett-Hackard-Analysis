@@ -17,9 +17,9 @@ program to fill said vacant roles.
 ## Summary
 
 According to the data there will be 72000 positions needing to be filled in the coming years.
-As it stands now there does not seem to be enough qualified,retirement-ready employees in the 
+As it stands now there does not seem to be enough qualified, retirement-ready employees in the 
 departments to mentor the next generation of Pewlett Hackard employees.
 
-Furthermore, it is reccomended that there are additional queries made into the salaries of the 
+Furthermore, it is recommended that there are additional queries made into the salaries of the 
 departing employees and the salaries of the employees who might potentially replace them to adjust
 the upcoming budget.
